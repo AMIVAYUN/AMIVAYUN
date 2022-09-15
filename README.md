@@ -7,6 +7,6 @@
 </p>
 
 <a href="https://대봉eng.com">
-  <img align="center" src="https://xn--eng-oh3mn51b.com/img/static/DaebongMark.jpg" />
+  
 </a>
 
