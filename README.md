@@ -3,8 +3,6 @@
 <p align = "center"> 기술 스택 </p>
 <p align = "center"> 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-
+    <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=&logoColor=white"/></a>&nbsp
 </p>
 
-
-![DaebongMark](https://user-images.githubusercontent.com/63450823/190349899-099f4519-def0-4102-a103-93a18a4b862a.jpg)
