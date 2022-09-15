@@ -26,6 +26,7 @@
 
 - - -
 
+<h2> About Me </h2>
 
 <div style="display:flex"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=amivayun&count_private=true" />
