@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **AMIVAYUN/AMIVAYUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=BB88CC&height=300&section=header&text=AMIVAYUN&fontSize=70&fontColor=4E4351)
+- - -
+<p align ="center" >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMIVAYUN&count_private=true&show_icons=true&title_color=4E4351&bg_color=D78664)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIVAYUN)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMIVAYUN&repo=github-readme-stats)](https://github.com/AMIVAYUN/github-readme-stats) </p>
