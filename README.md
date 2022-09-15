@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BB88CC&height=300&section=header&text=AMIVAYUN&fontSize=70&fontColor=4E4351&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BB88CC&height=300&section=header&text=AMIVAYUN&fontSize=70&fontColor=4E4351)
 
 
 
@@ -9,7 +9,9 @@
     <img alt = "Python3"src="https://img.shields.io/badge/Python-7DB4FF?style=flat-square&logo=Python&logoColor=white"/>&nbsp
     <img alt = "Mysql" src="https://img.shields.io/badge/Mysql-00DCFF?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp
     <img alt = "HTML5" src="https://img.shields.io/badge/HTML5-35FCEC?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-     <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat_square&logo=CSS3&logoColor=white"/>&nbsp
+    <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat_square&logo=CSS3&logoColor=white"/>&nbsp
     <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=black"/>
+    <img alt="Java" src ="https://img.shields.io/badge/Java-1572CC.svg?&style=flat_square&logo=CSS3&logoColor=white"/>&nbsp
+    <img alt="Android" src ="https://img.shields.io/badge/Java-A586AE.svg?&style=flat_square&logo=Android&logoColor=white"/>&nbsp
 </p>
 
