@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BB88CC&height=300&section=header&text=AMIVAYUN&fontSize=70&fontColor=4E4351&section=header)
+
+
+
 - - -
 <p align = "center"> 기술 스택 </p>
 <p align = "center"> 
