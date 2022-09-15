@@ -29,6 +29,11 @@
 <h2> About Me </h2>
 
 <div style="display:flex"> 
+  <h3> GitHub Stats </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=amivayun&count_private=true" />
+  
+  <h3> Language Usages </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  
+  
 </div>
