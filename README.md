@@ -5,8 +5,9 @@
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 </p>
-
+ ![DB LOGO](./DB LOGO.gif)
+ 
 <a href="https://대봉eng.com">
-    ![DB LOGO](./DB LOGO.gif)
+   
 </a>
 
