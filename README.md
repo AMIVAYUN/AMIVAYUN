@@ -3,7 +3,7 @@
 
 
 - - -
-<p align = "center" > <h3> 기술 스택  </h3></p>
+<p align = "center" > Technical Stack  </p>
 <p align = "center"> 
     <img alt = "SpringBoot" src="https://img.shields.io/badge/SpringBoot-BB88CC?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
     <img alt = "Python3"src="https://img.shields.io/badge/Python-7DB4FF?style=flat-square&logo=Python&logoColor=white"/>&nbsp
