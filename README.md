@@ -24,3 +24,12 @@
  - [SMU_SE_5](https://github.com/AMIVAYUN/SMU_SE_5, "캠핑장 예약 애플리케이션 프로젝트" ) 캠핑장 예약 업무 애플리케이션.. :file_folder:
 
 
+- - -
+
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMIVAYUN&repo=github-readme-stats" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
