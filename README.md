@@ -6,9 +6,7 @@
 
 </p>
 
-<a href="https://github.com/AMIVAYUN/SMU_SE_5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SMU_SE_5" />
+<a href="https://대봉eng.com">
+  <img align="center" src="https://xn--eng-oh3mn51b.com/img/static/DaebongMark.jpg" />
 </a>
-<a href="https://github.com/AMIVAYUN/CapstoneDesign">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMIVAYUN&repo=CapstoneDesign" />
-</a>
+
