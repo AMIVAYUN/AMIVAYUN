@@ -7,6 +7,6 @@
 </p>
 
 <a href="https://대봉eng.com">
-  <img src="./DB_LOGO.jpg"/>
+  <img src="./DB_LOGO.gif"/>
 </a>
 
