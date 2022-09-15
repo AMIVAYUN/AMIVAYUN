@@ -7,7 +7,7 @@
 </p>
 
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AMIVAYUN/SMU_SE_5)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=OnlineShop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SMU_SE_5" />
 </a>
 <a href="[https://github.com/anuraghazra/convoychat](https://github.com/AMIVAYUN/CapstoneDesign)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMIVAYUN&repo=CapstoneDesign" />
