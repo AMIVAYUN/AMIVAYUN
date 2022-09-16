@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BB88CC&height=300&section=header&text=AMIVAYUN&fontSize=70&fontColor=4E4351)
 
-https://img.shields.io/badge/Java-1572CC.svg?&style=flat_square&logo=Java&logoColor=white
+
 
 - - -
 <h2 align = "center"> Technical Stack  </h2>
