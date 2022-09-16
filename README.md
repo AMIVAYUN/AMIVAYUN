@@ -11,7 +11,7 @@
     <img alt = "HTML5" src="https://img.shields.io/badge/HTML5-35FCEC?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
     <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat_square&logo=CSS3&logoColor=white"/>&nbsp
     <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=black"/>
-    <img alt="Java" src ="https://img.shields.io/badge/Java-1572CC.svg?&style=flat_square&logo=CSS3&logoColor=white"/>&nbsp
+    <img alt="Java" src ="https://img.shields.io/badge/Java-1572CC.svg?&style=flat_square&logo=Java&logoColor=white"/>&nbsp
     <img alt="Android" src ="https://img.shields.io/badge/Android-A586AE.svg?&style=flat_square&logo=Android&logoColor=white"/>&nbsp
 </p>
 
