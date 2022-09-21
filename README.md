@@ -36,9 +36,5 @@
   
   <h3> Language Usages </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-  
-  <h3> BOJ Stats </h3>
-    
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=amiva)](https://solved.ac/amiva)  
-  
+
 </div>
